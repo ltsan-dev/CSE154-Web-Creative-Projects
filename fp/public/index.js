@@ -1,7 +1,7 @@
 "use strict";
 (function() {
 
-  const API_URL = "https://baller-browser.onrender.com/";
+  const API_URL = "https://baller-browser.onrender.com";
 
   // TAGS
   const SECTION_TAG = "section";
