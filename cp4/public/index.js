@@ -23,7 +23,7 @@
   let shotNumber = 0;
   let shotLocation = [0, 0];
 
-  const API_URL = "https://cse154-lebrons-legacy-api.onrender.com";
+  const API_URL = "/";
 
   window.addEventListener("load", init);
 
