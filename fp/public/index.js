@@ -1,7 +1,7 @@
 "use strict";
 (function() {
 
-  const API_URL = "/";
+  const API_URL = "https://lebrons-legacy.onrender.com/";
 
   // TAGS
   const SECTION_TAG = "section";
